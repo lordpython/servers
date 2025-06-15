@@ -26,7 +26,7 @@
     "@modelcontextprotocol/server-slack": "*",
     "@modelcontextprotocol/server-brave-search": "*",
     "@modelcontextprotocol/server-memory": "*",
-    "@modelcontextprotocol/server-filesystem": "*",
+    "@modelcontextprotocol/server-filesystem": "2025.3.28",
     "@modelcontextprotocol/server-everart": "*",
     "@modelcontextprotocol/server-sequential-thinking": "*"
   }
